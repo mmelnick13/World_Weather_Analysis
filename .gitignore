@@ -1,5 +1,7 @@
 # Adding config.py file.
 config.py
+/Vaction_Search/config.py
+/Weather_Database/config.py
 #Adding additional files.
 API_practice.ipynb
 Google_Nearby_Search.ipynb
